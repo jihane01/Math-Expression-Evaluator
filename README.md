@@ -23,5 +23,5 @@ gcc math_evaluator.c -o math_evaluator -lm
 ./math_evaluator
  
 '''
-##issue
+## issue
 this code always prompts the expression provided to be malformed.so If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
